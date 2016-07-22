@@ -1,0 +1,11 @@
+*.iml
+*/target/
+*/.project
+*/.classpath
+*/.gitignore
+*/.settings/
+/.idea/
+/.settings/
+/.project
+/*/target/
+*/catalina.home_IS_UNDEFINED/
